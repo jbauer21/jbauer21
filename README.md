@@ -13,7 +13,7 @@
 
 I am an XR Developer and Software Engineer with a passion for creating immersive and innovative digital experiences. I specialize in building robust applications and exploring the frontiers of extended reality.
 
-- 🔭 I’m currently building **[GeoSurfing](https://geosurfing.net/)**, a platform for exploring the world in new ways.
+- 🔭 I’m currently building **[GeoSurfing](https://geosurfing.net/)**, a platform for exploring the old web.
 - 👨‍💻 All of my projects are available on my **[Portfolio Website](https://jcbauer.neocities.org/portfolio)**.
 - 📫 You can reach me via email at **julianbauervr@gmail.com**.
 
