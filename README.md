@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://freeimage.host/i/Ffc257e" alt="Julian Bauer – Banner" width="100%">
+  <a href="https://freeimage.host/i/Ffc257e"><img src="https://iili.io/Ffc257e.md.jpg" alt="Ffc257e.md.jpg" border="0"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Julian</h1>
