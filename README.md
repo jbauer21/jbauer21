@@ -21,7 +21,7 @@ I am an XR Developer and Software Engineer with a passion for creating immersive
 - 👨‍💻 All of my projects are available on my **[Portfolio Website](https://jcbauer.neocities.org/portfolio)**.  
 - 📫 You can reach me via email at **julianbauervr@gmail.com**.
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbauer21&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="jbauer21" />
 </p>
 
