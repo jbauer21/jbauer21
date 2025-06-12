@@ -47,7 +47,7 @@ My technical skills include a wide range of languages, frameworks, and tools.
 I'm always open to connecting with fellow developers and creators. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/julian-bauer-02724522b" target="_blank">
+  <a href="https://www.linkedin.com/in/jcbauer/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me on LinkedIn" height="40" width="50" />
   </a>
 </p>
