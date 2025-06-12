@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://freeimage.host/i/Ffc257e" alt="Julian Bauer – Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">XR Developer & Software Engineer | Washington D.C.</h3>
 
@@ -13,8 +17,8 @@
 
 I am an XR Developer and Software Engineer with a passion for creating immersive and innovative digital experiences. I specialize in building robust applications and exploring the frontiers of extended reality.
 
-- 🔭 I’m currently building **[GeoSurfing](https://geosurfing.net/)**, a platform for exploring the old web.
-- 👨‍💻 All of my projects are available on my **[Portfolio Website](https://jcbauer.neocities.org/portfolio)**.
+- 🔭 I’m currently building **[GeoSurfing](https://geosurfing.net/)**, a platform for exploring the old web.  
+- 👨‍💻 All of my projects are available on my **[Portfolio Website](https://jcbauer.neocities.org/portfolio)**.  
 - 📫 You can reach me via email at **julianbauervr@gmail.com**.
 
 <p align="center">
